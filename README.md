@@ -2,9 +2,26 @@ Healthcare Analytics Dashboard (Power BI)
 
 End-to-End Power BI Project | Healthcare Analytics DashboardDesigned with a focus on real-world healthcare business decision-making.
 
-Project Overview
+Executive Summary
+This project delivers a healthcare analytics solution using Power BI to monitor patient trends, cost drivers, and payer performance.
+The dashboard enables stakeholders to identify inefficiencies, optimize healthcare spending, and make data-driven decisions.
 
+Problem Statement
+Healthcare organizations often struggle to:
+* Track rising healthcare costs
+* Identify high-cost payers
+* Understand patient distribution patterns
+
+Project Overview
 This dashboard analyzes healthcare data to provide insights into patient demographics, cost trends, and payer performance.
+This dashboard addresses these challenges by providing a centralized analytics solution.
+
+Project Workflow
+* Data Collection (CSV files)
+* Data Cleaning (Power Query)
+* Data Modeling (Star Schema)
+* DAX Calculations (KPIs & Insights)
+* Dashboard Development (Power BI)
 
 Key Features
 
